@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Mahatma Gandhi Tribute</title>
+    <meta  charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Krishna Prakash">
+    <meta name="description" content="This is a tribute page to Mahatma Gandhi & part for freecodecamp project">
+    
+  </head>
+  <body>
+    <div 
+      <header>
+      <h1 id="title">Mahatma Gandhi</h1>
+      <p id="page-subtitle" class="no-top-margin bold-font">Freedom Fighter & The father of Our Nation</p>
+      </header>
+      <main id="main">
+ 
+
+        <div id="img-div">
+          <figure>
+            <img id="image" src="https://rukminim1.flixcart.com/image/416/416/k8t3jbk0/poster/m/g/r/medium-mahatma-gandhi-ji-poster-mohandas-karamchand-gandhi-original-imafqqqzzjet9ywv.jpeg?q=70" alt="An image" style="display: block; max-width: 100%; margin: 0 auto;" id="main">
+
+            <figcaption id="img-caption">Here’s to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes… the ones who see things differently — they’re not fond of rules… You can quote them, disagree with them, glorify or vilify them, but the only thing you can’t do is ignore them because they change things… they push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do.</figcaption>
+          </figure> 
+        </div>
+        <div id="tribute-info">
+          <h2>Early Life</h2>
+Mohan Das Karam Chand Gandhi, better known as Mahatma Gandhi was born on 2 October 1869 in Porbandar in Gujarat into the middle class Vaishya family. He was the son of Karamchand and Putlibai. 
+
+He studied at the elementary school in Porbandar till the age of seven and later at Rajkot. He was married to Kasturba at the age of thirteen while still in high school. 
+
+He matriculated from Samladas College in Bhavnager, Gujarat and went to England in 1888 to study law. Though his mother opposed this trip, but the opposition was overcome by Gandhi's strict vow of not touching women, wine and meat in the foreign land. He passed his examination in 1891 and on 12 June 1891 sailed back to India.
+
+<h2>Initiation into Public Movements</h2>
+He remained in India for almost two years and in 1893 he went to South Africa to fight a lawsuit on behalf of Dada Abdullah & Company. It was the place, which changed the course of Gandhi's life and the history of India. While traveling in a first class rail compartment, Gandhi was thrown out by railway officials just because a white man objected to his presence in the first class compartment. This and some other such incidents made Gandhi feel that being quiet will not do any good. He stood up for the cause of all the Indians residing there who were suffering humiliation daily. After fighting for the cause of the Indian people in South Africa, he returned to India in 1915. But he was not the same man who left India. He was much transformed - now he had nothing but one resolve - to serve the masses of his country. 
+
+<h2>Gandhi's Struggle for India's Independence</h2>
+
+After returning to India permanently, he began his struggle for Independence after joining the Indian National Congress. He got acquainted with the issues in India, politics and the problems faced by the Indian people. Soon, he became a prominent leader of the Congress. To attain Independence for the country, Gandhi initiated several movements which helped him achieve his goals.
+
+<h2>Mahatma Gandhi: Role in the Indian Independence Movement</h2>
+
+In 1915, Gandhiji returned to India permanently and joined the Indian National Congress with Gopal Krishna Gokhale as his mentor.
+
+Gandhi's first major achievement was in 1918 when he led the Champaran and Kheda agitations of Bihar and Gujarat. He also led Non-Cooperation Movement, Civil Disobedience Movement, Swaraj, and Quit-India movement against the British government.
+
+<h2>Mahatma Gandhi: Satyagraha</h2>
+
+Gandhi identified his overall method of non-violent action as Satyagraha. Gandhiji's Satyagraha influenced eminent personalities such as Nelson Mandela and Martin Luther in their struggle for freedom, equality, and social justice. Mahatma Gandhi's Satyagraha was based on true principles and non-violence.
+
+"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
+
+<h2>Mahatma Gandhi: Literary works</h2>
+Gandhi was a prolific writer. Some of his literary works are as follows:
+
+• Hind Swaraj, published in Gujarati in 1909. 
+
+• He edited several newspapers which included Harijan in Gujarati, in Hindi and the English language; Indian Opinion, Young India, in English, and Navajivan, a Gujarati monthly. 
+
+• Gandhi also wrote his autobiography, The Story of My Experiments with Truth.
+
+• His other autobiographies included: Satyagraha in South Africa, Hind Swaraj or Indian Home Rule.
+
+<h2>Mahatma Gandhi: Death</h2>
+Mohandas Karamchand Gandhi was assassinated on 30 January 1948 by Nathuram Godse.He accused Gandhi of favoring Pakistan and was opposed to the doctrine of non-violence.
+
+</br>
+"You must be the change you wish to see in the World." - Mahatma Gandhi
+          <br><br>
+          <a id="tribute-link" href="https://en.wikipedia.org/wiki/Mahatma_Gandhi#:~:text=Biography-,Early%20life%20and%20background,Agency%20of%20the%20British%20Raj." target="_blank" alt="More Info about Gandhi">More Details about Mahatma Gandhi life</a>
+        </div>
+    </div>
+  </body>
+</html>
