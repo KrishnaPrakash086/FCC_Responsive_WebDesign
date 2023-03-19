@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Description" content="Product landing page, a project for freeCodeCamp" author="Krishna Prakash">
+ 
+   <link rel="stylesheet" href="style/style.css">
+<title>Kripal's Premium</title>
+    
+<style>
+  #nav-bar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  @media (min-width: 768px) {
+    /* Media query for screens larger than 768px */
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    
+    main {
+      flex: 1;
+    }
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+  }
+  
+  .col {
+    flex: 1;
+    margin: 10px;
+    min-width: 300px;
+  }
+  
+  #banner {
+    background-color: #9cb5cc;
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+  }
+  
+  #video {
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+  </head>
+  <body>
+    <header id="header">
+      <div id="header-logo">
+        <img id="header-img" src="https://www.svgrepo.com/show/100814/brain.svg" >
+        <h1 id="header-logo-name">Kripal's Premium</h1>
+      </div>
+      <nav id="nav-bar">
+        <ul>
+          <li>
+            <a class="nav-link" href="#about">About</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#process">The Process</a>
+          </li>
+          <li>
+            <a class="nav-link" href="#contact">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div id="banner">
+        <div class="row">
+          <div>
+           <iframe title="Kripal's Premium Commercial" id="video"src="https://www.youtube.com/embed/9iIX4PBplAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+          <h4>
+  
+            <span style="font-style: italic;"> Remember The Brand !</span>
+          </h4>
+        </div>
+      </div>
+      <section id="about">       
+        <h2>About Us</h2>
+        <div class="row">
+          <div class="col" id="about-description">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi exercitationem quaerat, delectus voluptates ipsum quasi ut reprehenderit iure iste! Reiciendis iusto eveniet molestias porro maiores numquam officia ab qui dicta?</p>
+    
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi exercitationem quaerat, delectus voluptates ipsum quasi ut reprehenderit iure iste! Reiciendis iusto eveniet molestias porro maiores numquam officia ab qui dicta?</p>
+                        
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi exercitationem quaerat, delectus voluptates ipsum quasi ut reprehenderit iure iste! Reiciendis iusto eveniet molestias porro maiores numquam officia ab qui dicta?</p>
+                    </div>
+                </div>
+            </section>
+            <section id="process">
+    <h2>The Process</h2>
+    <div class="row">
+        <div id="step-one" class="col">
+            <h3>STEP ONE:<br>CONSULTATION</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi exercitationem quaerat, delectus voluptates ipsum quasi ut reprehenderit iure iste! Reiciendis iusto eveniet molestias porro maiores numquam officia ab qui dicta?</p>
+        </div>
+        <div id="step-two" class="col">
+            <h3>STEP TWO:<br>PREPARATION</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est, possimus? Maiores, soluta distinctio? Atque, neque quidem. Officia molestiae doloremque non voluptatem rerum quasi laudantium quia.</p>
+        </div>
+        <div id="step-three" class="col">
+            <h3>STEP THREE:<br>MAPPING</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, tempore culpa? Totam voluptatem illum modi iusto vel. Velit praesentium, totam consequuntur recusandae cumque molestias?</p>
+        </div>
+        <div id="step-four" class="col">
+            <h3>STEP FOUR:<br>PROCEDURE</h3>
+            <p>TLorem ipsum dolor sit amet consectetur adipisicing elit. Sequi exercitationem quaerat, delectus voluptates ipsum quasi ut reprehenderit iure iste! Reiciendis iusto eveniet molestias porro maiores numquam officia ab qui dicta?,sit amet consectetur adipisicing elit. Vero, tempore culpa? Totam voluptatem illum modi iusto vel. Velit praesentium, totam consequuntur recusandae cumque molestias?</p>
+        </div>
+    </div>
+</section>
+<section id="contact">
+    <h2>Contact</h2>
+    <div class="row">
+        <aside id="mailing-list">
+            <form id="form" action="https://www.freecodecamp.com/email-submit">
+                <label for="email">Join our mailing list to learn first about product updates and seasonal deals!</label>
+                <input id="email" type="email" name="email" placeholder="Your email address">
+                <input id="submit" type="submit">
+            </form>
+        </aside>
+        <address class="col"> 
+            Bhubaneswar,<br>
+            Odisha,<br>
+            India.
+        </address>
+    </div>
+</section>
+</main>
+<footer>
+    <p>Join <a href="https://www.linkedin.com/in/krishna-prakash-8a0493232">LinkedIn</a></p>
+</footer>     
+</body>
+</html>
