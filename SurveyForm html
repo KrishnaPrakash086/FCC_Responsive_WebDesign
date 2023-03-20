@@ -67,15 +67,15 @@
             <label>Which course you want want to pursue:</label>
           </div>
           <div id="" class="input-div">
-            <label for="real-estate"><input id="real-estate" type="checkbox" name="real-estate" value="real-estate">Computer Science</label>
+            <label for="cse"><input id="cse" type="checkbox" name="cse" value="cse">Computer Science</label>
             </br>
-            <label for="mutual-funds"><input id="mutual-funds" type="checkbox" name="mutual-funds" value="mutual-funds">Mechanical Engineering</label>
+            <label for="me"><input id="me" type="checkbox" name="me" value="me">Mechanical Engineering</label>
             </br>
-            <label for="crypto"><input id="crypto" type="checkbox" name="crypto" value="crypto">Electrical Engineering</label>
+            <label for="ee"><input id="ee" type="checkbox" name="ee" value="ee">Electrical Engineering</label>
             </br>
-            <label for="stocks"><input id="stocks" type="checkbox" name="stocks" value="stocks"> Chemical Engineering</label> 
+            <label for="ce"><input id="ce" type="checkbox" name="ce" value="ce"> Chemical Engineering</label> 
       <br>
-      <label for="stocks"><input id="stocks" type="checkbox" name="stocks" value="stocks"> Civil Engineering</label>
+      <label for="civil"><input id="civil" type="checkbox" name="civil" value="civil"> Civil Engineering</label>
             </br>
           </div>
         </div>
