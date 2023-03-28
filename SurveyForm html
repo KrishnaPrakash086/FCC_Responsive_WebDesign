@@ -73,7 +73,7 @@
             </br>
             <label for="ee"><input id="ee" type="checkbox" name="ee" value="ee">Electrical Engineering</label>
             </br>
-            <label for="ce"><input id="ce" type="checkbox" name="ce" value="ce"> Chemical Engineering</label> 
+            <label for="chemical"><input id="ce" type="checkbox" name="ce" value="ce"> Chemical Engineering</label> 
       <br>
       <label for="civil"><input id="civil" type="checkbox" name="civil" value="civil"> Civil Engineering</label>
             </br>
