@@ -4,7 +4,7 @@
     <title>Mahatma Gandhi Tribute Page</title>
     <meta  charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Krishna Prakash">
+    <meta name="author" content="Krishna ">
     <meta name="description" content="This is a tribute page to Mahatma Gandhi & part for freecodecamp project">
     
   </head>
@@ -12,7 +12,7 @@
     <div 
       <header>
       <h1 id="title">Mahatma Gandhi</h1>
-      <p id="page-subtitle" class="no-top-margin bold-font">Freedom Fighter & The father of Our Nation</p>
+      <p id="page-subtitle" class="no-top-margin bold-font">Freedom Fighter & Father of Nation</p>
       </header>
       <main id="main">
  
